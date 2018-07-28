@@ -1,0 +1,6 @@
+framework module DataTiger {
+  umbrella header "DataTiger.h"
+
+  export *
+  module * { export * }
+}

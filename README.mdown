@@ -1,0 +1,5 @@
+# DataTiger
+
+[Tiger](https://git.oschina.net/brucezcq/Tiger) for ios
+
+主要实现了 Tiger 的 App 授权，数据录入功能
